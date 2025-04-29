@@ -7,7 +7,7 @@ This screenshot shows the monthly revenue and order volume grouped by year and m
 ## 📊 MySQL Queries and Results
 
 ### 🔹 Query 1: Orders on a Specific Date
-![Query 1]([mysql_screenshots/query1.png](https://github.com/Venkykatariki/online-sales-Trend-Analysis/blob/main/query1.png))
+![Query 1](query1.png)
 
 ---
 
